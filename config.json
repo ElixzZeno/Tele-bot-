@@ -1,14 +1,14 @@
 {
-  "prefix": "/",
+  "prefix": ".",
   "greetNewMembers": {
         "enabled": true,
         "gifUrl": "https://tinyurl.com/2xzaydex"
   },
   "port": "8080",
-  "owner": "Samir Œ",
-  "owner_id": 1472439428,
-  "token": "",
-  "age": "14",
+  "owner": "Asmit",
+  "owner_id": 1929362279,
+  "token": "7230043489:AAED4Mt-7lFvazVrT3gZLuFmu2PZNsyM-nE",
+  "age": "19",
   "gender": "male",
-  "country": "Bangladesh"
+  "country": "Nepal"
 }
